@@ -46,7 +46,7 @@ const AuditorSBT = ({ onSubmit }) => {
 			<h1 className="h1">Get Started</h1>
 			<h2 className="h2 text-center mb-3">
 				First of all, you will need to get verified
-				<p className="mb-1">as an Auditoron TurtleShell.</p>
+				<p className="mb-1">as an Auditoron TaikoShell.</p>
 				<p className="mb-1">Therefore, you will need an Auditor SBT.</p>
 			</h2>
 
