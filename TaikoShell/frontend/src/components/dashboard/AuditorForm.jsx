@@ -5,7 +5,7 @@ import "./Dashboard.css"
 import { useState } from "react"
 
 const AuditorForm = ({ onSubmit, updateContractType }) => {
-	// accept the onSubmit prop
+	
 	const [contractType, setContractType] = useState("")
 
 	return (
