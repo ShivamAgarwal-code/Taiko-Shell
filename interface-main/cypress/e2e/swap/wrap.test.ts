@@ -1,3 +1,4 @@
+import React from 'react';
 import { CurrencyAmount, SupportedChainId, WETH9 } from '@uniswap/sdk-core'
 
 import { getBalance, getTestSelector } from '../../utils'
