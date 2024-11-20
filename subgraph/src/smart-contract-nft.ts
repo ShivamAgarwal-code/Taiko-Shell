@@ -6,6 +6,7 @@ import {
 } from "../generated/SmartContractNFT/SmartContractNFT"
 import {
   Approval,
+  ApprovalForIndividual,
   ApprovalForAll,
   MintSmartContractNFT,
   Transfer
