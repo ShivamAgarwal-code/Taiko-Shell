@@ -6,7 +6,7 @@ import "./interfaces/IAuditorNFT.sol";
 import {SBT} from "./SBT.sol";
 
 contract AuditorNFT is IAuditorNFT, SBT {
-  // STORAGE
+  
 
   mapping(address auditor => AuditorData) private s_auditorData;
 
